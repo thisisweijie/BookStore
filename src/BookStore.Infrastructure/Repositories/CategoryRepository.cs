@@ -8,3 +8,4 @@ namespace BookStore.Infrastructure.Repositories
     {
         public CategoryRepository(BookStoreDbContext context) : base(context) { }
     }
+}
